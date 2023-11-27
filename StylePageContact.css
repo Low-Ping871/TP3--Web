@@ -10,7 +10,7 @@
      background-size: cover;
      background-repeat: no-repeat;
      font-family: sans-serif;
-     height: 100vh;
+     
    
  
 }
@@ -34,8 +34,10 @@
 }
  
  .nav-item:first-child{
+    margin-right: auto;
+    margin-left: 2rem;
     
- 
+
 }
  ul{
  
