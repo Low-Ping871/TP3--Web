@@ -43,3 +43,10 @@
  
      background-color: black;
 }
+.Accueil-photo-CS-GO{
+  display: flex;
+  flex-direction: column;
+
+
+
+}
