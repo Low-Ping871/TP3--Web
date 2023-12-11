@@ -69,15 +69,15 @@
     
     }
     .container-text-gauche{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        width: 1800px;
-        align-items: center;
-        font-size: 30px;
-        padding-top: 50px;
-        padding-left: 150px;
-        font-weight: bolder;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1800px;
+    align-items: center;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 150px;
+    font-weight: bolder;
         
     }
     .text-gauche{
@@ -95,8 +95,7 @@
     .text-container-case-jaune{
     font-weight: bold;
     align-items: center;
-    background-image: url(images/Zone\ retour\ accueil.png);
-    font-size: 25px;
+    background-image:url(images-et-vidéos/Zone\ retour\ accueil.png) ;
     padding-left: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -105,6 +104,7 @@
     justify-content:space-between;
     flex-direction: row;
     color: black;
+    font-size: 25px;
     }
   
     
