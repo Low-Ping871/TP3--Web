@@ -211,3 +211,10 @@ padding-left: 250px;
 
 
 }
+.conteneur-flèche-description-projet-bas-de-page{
+    display: flex;
+    flex-direction: row;
+    padding-left: 700px;
+  
+
+}
