@@ -43,10 +43,33 @@
  
      background-color: black;
 }
-.Accueil-photo-CS-GO{
-  display: flex;
-  flex-direction: column;
+.conteneur-page-index-debut{
+    background-image: url(images/Image\ de\ cs-go\ au\ tout\ début\ du\ site.png) ;
+    background-size:  cover;
+    display: flex;
+    flex-direction: column;
+    height: 837px;
+    align-items: center;
+    padding-top: 200px;
+    padding-right: 850px;
+
+}
+.text-conteneur-index-debut{
+font-size: 40px;
+color: white;
+font-weight: bold;
+padding-bottom: 50px;
+
 
 
 
 }
+
+
+
+
+
+
+
+
+
