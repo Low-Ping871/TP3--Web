@@ -79,7 +79,30 @@ width: 1920px;
     padding-left: 150px;
     font-weight: bolder;
     
-    }
-    .text-gauche{
+}
+.text-gauche{
     width: 600px;
-    }
+}
+.container-case-jaune{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding-top: 200px;
+width: 1800px;
+padding-left: 100px;
+padding-bottom: 30px;
+}
+.text-container-case-jaune{
+font-weight: bold;
+align-items: center;
+background-image: url(images/Zone\ retour\ accueil.png);
+font-size: 25px;
+padding-left: 50px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 50px;
+display: flex;
+justify-content:space-between;
+flex-direction: row;
+color: black;
+}
