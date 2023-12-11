@@ -43,3 +43,43 @@
  
      background-color: black;
 }
+.container-text-droite{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+width: 1800px;
+align-items: center;
+font-size: 30px;
+padding-top: 50px;
+padding-left: 50px;
+font-weight: bolder;
+
+}
+.text-droite{
+width: 600px;
+
+
+
+
+}
+body{
+width: 1920px;
+
+
+
+}
+.container-text-gauche{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1800px;
+    align-items: center;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 150px;
+    font-weight: bolder;
+    
+    }
+    .text-gauche{
+    width: 600px;
+    }
