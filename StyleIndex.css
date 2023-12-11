@@ -108,6 +108,23 @@ padding-bottom: 50px;
         color: black;
         padding-bottom: 40px;
         }
+        .conteneur-image-maps-cs-go-index{
+            display: flex;
+            flex-direction: column;
+            padding-top: 100px;
+        }
+        .conteneur-premiere-rangee{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        .conteneur-deuxieme-rangee{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+
 
 
 
