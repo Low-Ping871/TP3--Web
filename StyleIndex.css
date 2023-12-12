@@ -121,7 +121,7 @@ flex-direction: row;
             flex-direction: row;
             justify-content: space-between;
         }
-        .text-container-case-jaune{
+        .texte-conteneur-case-jaune{
             font-weight: bold;
             align-items: center;
             background-image: url(images/Zone\ retour\ accueil.png) ;
@@ -135,7 +135,7 @@ flex-direction: row;
             flex-direction: row;
             color: black;
         }
-        .container-case-jaune{
+        .conteneur-case-jaune{
             display: flex;
             flex-direction: row;
             justify-content: space-between;
