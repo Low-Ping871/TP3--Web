@@ -1,15 +1,15 @@
 *{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    text-decoration: none;
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+text-decoration: none;
  
 }
- nav{
+nav{
      
-     background-size: cover;
-     background-repeat: no-repeat;
-     font-family: sans-serif;
+background-size: cover;
+background-repeat: no-repeat;
+font-family: sans-serif;
      
    
  
@@ -22,15 +22,15 @@
      
  
 }
- .nav-item{
-     margin-right: 2rem;
+.nav-item{
+margin-right: 2rem;
      
-     font-weight: 600
+font-weight: 600
 }
- .nav-item a {
+.nav-item a {
  
- color: white;
- letter-spacing: 1.2px;
+color: white;
+letter-spacing: 1.2px;
 }
  
  .nav-item:first-child{
@@ -41,7 +41,7 @@
 }
  ul{
  
-     background-color: black;
+    background-color: black;
 }
 .conteneur-page-index-debut{
     background-image: url(images/Image\ de\ cs-go\ au\ tout\ début\ du\ site.png) ;
@@ -64,58 +64,56 @@ padding-bottom: 50px;
     display: flex;
     
 }
-
-    .conteneur-page-index-partie-3{
-        background-image:url(images/forme\ grise.png);
-        background-size:  cover;
-        display: flex;
-        height: 1225px;
-        justify-content: space-between;
+.conteneur-page-index-partie-3{
+background-image:url(images/forme\ grise.png);
+background-size:  cover;
+display: flex;
+height: 1225px;
+justify-content: space-between;
         
         
-        }
-        .conteneur-page-index-partie-contact-gauche{
-        display: flex;
-        flex-direction: column;
-        padding-left: 170px;
-        padding-top: 140px;
+}
+.conteneur-page-index-partie-contact-gauche{
+display: flex;
+flex-direction: column;
+padding-left: 170px;
+padding-top: 140px;
+}
+.conteneur-page-index-partie-description-projet-droite{
+display: flex;
+flex-direction: column;
+padding-right: 150px;
+padding-top: 140px;
         
-        }
-        .conteneur-page-index-partie-description-projet-droite{
-        display: flex;
-        flex-direction: column;
-        padding-right: 150px;
-        padding-top: 140px;
+}
+.conteneur-image-gris{
+position: relative;
+align-items: center;
+text-align: center;
         
-        }
-        .conteneur-image-gris{
-        position: relative;
-        align-items: center;
-        text-align: center;
-        
-        }
-        .texte-image-gris{
-        position: absolute;
-        bottom: 20px;
-        right: 20px;
-        color: black;
-        padding-left: 20px;
-        padding-right: 250px;
-        align-items: center;
-        text-align: center;
-        font-size: 30px;
-        font-weight: bold;
-        color: black;
-        padding-bottom: 40px;
-        }
-        .conteneur-image-maps-cs-go-index{
-            display: flex;
-            flex-direction: column;
-            padding-top: 100px;
-        }
-        .conteneur-premiere-rangee{
-            display: flex;
-            flex-direction: row;
+}
+.texte-image-gris{
+position: absolute;
+bottom: 20px;
+right: 20px;
+color: black;
+padding-left: 20px;
+padding-right: 250px;
+align-items: center;
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+color: black;
+padding-bottom: 40px;
+}
+.conteneur-image-maps-cs-go-index{
+display: flex;
+flex-direction: column;
+padding-top: 100px;
+}
+.conteneur-premiere-rangee{
+display: flex;
+flex-direction: row;
             justify-content: space-between;
         }
         .conteneur-deuxieme-rangee{
